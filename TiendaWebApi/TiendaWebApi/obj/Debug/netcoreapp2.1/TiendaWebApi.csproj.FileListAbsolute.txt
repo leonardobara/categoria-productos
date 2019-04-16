@@ -1,0 +1,42 @@
+C:\Users\Leonardo Barahona\Desktop\Tienda\TiendaWebApi\TiendaWebApi\obj\Debug\netcoreapp2.1\TiendaWebApi.csprojAssemblyReference.cache
+C:\Users\Leonardo Barahona\Desktop\Tienda\TiendaWebApi\TiendaWebApi\obj\Debug\netcoreapp2.1\TiendaWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Barahona\Desktop\Tienda\TiendaWebApi\TiendaWebApi\obj\Debug\netcoreapp2.1\TiendaWebApi.RazorAssemblyInfo.cache
+C:\Users\Leonardo Barahona\Desktop\Tienda\TiendaWebApi\TiendaWebApi\obj\Debug\netcoreapp2.1\TiendaWebApi.RazorAssemblyInfo.cs
+C:\Users\Leonardo Barahona\Desktop\Tienda\TiendaWebApi\TiendaWebApi\obj\Debug\netcoreapp2.1\TiendaWebApi.AssemblyInfoInputs.cache
+C:\Users\Leonardo Barahona\Desktop\Tienda\TiendaWebApi\TiendaWebApi\obj\Debug\netcoreapp2.1\TiendaWebApi.AssemblyInfo.cs
+C:\Users\Leonardo Barahona\Desktop\Tienda\TiendaWebApi\TiendaWebApi\bin\Debug\netcoreapp2.1\TiendaWebApi.deps.json
+C:\Users\Leonardo Barahona\Desktop\Tienda\TiendaWebApi\TiendaWebApi\bin\Debug\netcoreapp2.1\TiendaWebApi.runtimeconfig.json
+C:\Users\Leonardo Barahona\Desktop\Tienda\TiendaWebApi\TiendaWebApi\bin\Debug\netcoreapp2.1\TiendaWebApi.runtimeconfig.dev.json
+C:\Users\Leonardo Barahona\Desktop\Tienda\TiendaWebApi\TiendaWebApi\bin\Debug\netcoreapp2.1\TiendaWebApi.dll
+C:\Users\Leonardo Barahona\Desktop\Tienda\TiendaWebApi\TiendaWebApi\obj\Debug\netcoreapp2.1\TiendaWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Leonardo Barahona\Desktop\Tienda\TiendaWebApi\TiendaWebApi\bin\Debug\netcoreapp2.1\TiendaWebApi.pdb
+C:\Users\Leonardo Barahona\Desktop\Tienda\TiendaWebApi\TiendaWebApi\obj\Debug\netcoreapp2.1\TiendaWebApi.dll
+C:\Users\Leonardo Barahona\Desktop\Tienda\TiendaWebApi\TiendaWebApi\obj\Debug\netcoreapp2.1\TiendaWebApi.pdb
+C:\Users\Administrator\Desktop\TiendaWebApi\TiendaWebApi\TiendaWebApi\obj\Debug\netcoreapp2.1\TiendaWebApi.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\TiendaWebApi\TiendaWebApi\TiendaWebApi\obj\Debug\netcoreapp2.1\TiendaWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TiendaWebApi\TiendaWebApi\TiendaWebApi\obj\Debug\netcoreapp2.1\TiendaWebApi.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\TiendaWebApi\TiendaWebApi\TiendaWebApi\obj\Debug\netcoreapp2.1\TiendaWebApi.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\TiendaWebApi\TiendaWebApi\TiendaWebApi\obj\Debug\netcoreapp2.1\TiendaWebApi.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\TiendaWebApi\TiendaWebApi\TiendaWebApi\obj\Debug\netcoreapp2.1\TiendaWebApi.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\TiendaWebApi\TiendaWebApi\TiendaWebApi\obj\Debug\netcoreapp2.1\TiendaWebApi.dll
+C:\Users\Administrator\Desktop\TiendaWebApi\TiendaWebApi\TiendaWebApi\obj\Debug\netcoreapp2.1\TiendaWebApi.pdb
+C:\Users\Administrator\Desktop\TiendaWebApi\TiendaWebApi\TiendaWebApi\bin\Debug\netcoreapp2.1\TiendaWebApi.deps.json
+C:\Users\Administrator\Desktop\TiendaWebApi\TiendaWebApi\TiendaWebApi\bin\Debug\netcoreapp2.1\TiendaWebApi.runtimeconfig.json
+C:\Users\Administrator\Desktop\TiendaWebApi\TiendaWebApi\TiendaWebApi\bin\Debug\netcoreapp2.1\TiendaWebApi.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\TiendaWebApi\TiendaWebApi\TiendaWebApi\bin\Debug\netcoreapp2.1\TiendaWebApi.dll
+C:\Users\Administrator\Desktop\TiendaWebApi\TiendaWebApi\TiendaWebApi\bin\Debug\netcoreapp2.1\TiendaWebApi.pdb
+C:\Users\Administrator\Desktop\TiendaWebApi\TiendaWebApi\TiendaWebApi\obj\Debug\netcoreapp2.1\TiendaWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Tienda\TiendaWebApi\TiendaWebApi\bin\Debug\netcoreapp2.1\TiendaWebApi.deps.json
+C:\Users\Administrator\Desktop\Tienda\TiendaWebApi\TiendaWebApi\bin\Debug\netcoreapp2.1\TiendaWebApi.runtimeconfig.json
+C:\Users\Administrator\Desktop\Tienda\TiendaWebApi\TiendaWebApi\bin\Debug\netcoreapp2.1\TiendaWebApi.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Tienda\TiendaWebApi\TiendaWebApi\bin\Debug\netcoreapp2.1\TiendaWebApi.dll
+C:\Users\Administrator\Desktop\Tienda\TiendaWebApi\TiendaWebApi\bin\Debug\netcoreapp2.1\TiendaWebApi.pdb
+C:\Users\Administrator\Desktop\Tienda\TiendaWebApi\TiendaWebApi\obj\Debug\netcoreapp2.1\TiendaWebApi.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Tienda\TiendaWebApi\TiendaWebApi\obj\Debug\netcoreapp2.1\TiendaWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Tienda\TiendaWebApi\TiendaWebApi\obj\Debug\netcoreapp2.1\TiendaWebApi.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Tienda\TiendaWebApi\TiendaWebApi\obj\Debug\netcoreapp2.1\TiendaWebApi.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Tienda\TiendaWebApi\TiendaWebApi\obj\Debug\netcoreapp2.1\TiendaWebApi.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Tienda\TiendaWebApi\TiendaWebApi\obj\Debug\netcoreapp2.1\TiendaWebApi.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Tienda\TiendaWebApi\TiendaWebApi\obj\Debug\netcoreapp2.1\TiendaWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Tienda\TiendaWebApi\TiendaWebApi\obj\Debug\netcoreapp2.1\TiendaWebApi.dll
+C:\Users\Administrator\Desktop\Tienda\TiendaWebApi\TiendaWebApi\obj\Debug\netcoreapp2.1\TiendaWebApi.pdb
