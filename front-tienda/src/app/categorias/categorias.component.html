@@ -1,0 +1,20 @@
+<hr>
+
+<h1> Productos-Categorias</h1>
+
+<hr>
+
+<div class="row">
+  <div class="col-sm-6">
+    <div class="card" *ngFor="let categoria of categoriaBd">
+      <div class="card-body">
+        <h5 class="card-title"> {{ categoria.nombre }} </h5>
+        <p class="card-text">{{ categoria.descripcion }}</p>
+        <p class="card-text">{{ categoria.categoriaId }}</p>
+
+        <a routerLinkActive="active" [routerLink]="['/productos', categoria.categoriaId]" class="btn waves-effect waves-light btn-rounded btn-primary">
+          Ver Productos</a>
+      </div>
+    </div>
+  </div>
+</div>
